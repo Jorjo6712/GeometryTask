@@ -1,0 +1,14 @@
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\bin\Debug\net8.0\Geometry Task.exe
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\bin\Debug\net8.0\Geometry Task.deps.json
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\bin\Debug\net8.0\Geometry Task.runtimeconfig.json
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\bin\Debug\net8.0\Geometry Task.dll
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\bin\Debug\net8.0\Geometry Task.pdb
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.GeneratedMSBuildEditorConfig.editorconfig
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.AssemblyInfoInputs.cache
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.AssemblyInfo.cs
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.csproj.CoreCompileInputs.cache
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.dll
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\refint\Geometry Task.dll
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.pdb
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\Geometry Task.genruntimeconfig.cache
+B:\Github\Geometry task C-Sharp\Geometry Task\Geometry Task\obj\Debug\net8.0\ref\Geometry Task.dll
